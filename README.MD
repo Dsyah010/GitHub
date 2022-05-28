@@ -6,6 +6,4 @@ This is my first tutorial respitory on GitHub
 
 ## Introduction 
 
-As ASYRAF SAID:
-
->KACIP
+![GitHub Logo](/images/logo.png)
