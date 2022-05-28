@@ -2,4 +2,4 @@
 
 This is my first tutorial respitory on GitHub 
 
-## Introduction :octobot:
+## Introduction :octocat:
